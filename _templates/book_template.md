@@ -1,5 +1,10 @@
 ---
-tags: [book, summary, <% tp.file.title %>]
+tags:
+  - book
+  - summary
+  - <%
+  - tp.file.title
+  - "%>"
 created: <% tp.date.now("YYYY-MM-DD") %>
 ---
 # <% tp.file.title %>
