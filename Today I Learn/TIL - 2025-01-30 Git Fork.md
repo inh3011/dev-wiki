@@ -1,4 +1,4 @@
-# Fork 전략
+# TIL - 2025-01-30 Git Fork
 Fork 전략(Forking Strategy)은 오프소스 프로젝트나 협업 개발에서 사용되는 Git 브랜치 관리 방식 중 하나입니다. 
 
 원본 저장소를 Fork(복사)해서 독립적인 저장소에서 개발한 후, Pull Request(PR)로 변경 사항을 반영하는 Git 협업 전략입니다.

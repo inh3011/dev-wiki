@@ -1,4 +1,4 @@
-# 2025-02-01 dev log
+# TIL - 2025-02-01 Tailwind CSS
 
 # Tailwind CSS
 오늘 `VisualSection`과 `VisualSectionItem`을 만들면서 사용한 **Tailwind CSS 클래스 & CSS 스타일**을 정리합니다.
