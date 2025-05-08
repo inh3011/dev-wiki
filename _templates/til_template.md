@@ -1,11 +1,4 @@
----
-
-tags: [TIL, learning]
-
-created: <% tp.date.now("YYYY-MM-DD") %>
-
----
-# TIL - <% tp.date.now("YYYY-MM-DD") %>
+# TIL - YYYY-MM-DD - title
 
 ## 오늘 배운 개념 (What I Learned)
 
