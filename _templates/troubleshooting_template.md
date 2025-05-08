@@ -1,8 +1,4 @@
----
-tags: [bug, fix, troubleshooting, <% tp.file.title %>]
-created: <% tp.date.now("YYYY-MM-DD") %>
----
-# Issue: <% tp.file.title %>
+# Issue: title
 
 ## 문제 요약 (Issue Summary)
 
