@@ -1,8 +1,4 @@
----
-tags: [project, documentation]
-created: <% tp.date.now("YYYY-MM-DD") %>
----
-# 기술 도입 배경 및 적용 사례: <% tp.file.title %>
+# 기술 도입 배경 및 적용 사례: title
 
 ## 0. 개요
 
