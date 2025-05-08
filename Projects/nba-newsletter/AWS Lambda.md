@@ -1,11 +1,3 @@
----
-tags:
-  - project
-  - documentation
-  - "#lambda"
-  - aws
-created: 2025-04-30
----
 # **기술 도입 배경 및 적용 사례: AWS Lambda**
 
 ## **0. 개요**
