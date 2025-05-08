@@ -1,9 +1,4 @@
----
-tags: [how-to, guide]
-created: <% tp.date.now("YYYY-MM-DD") %>
----
-
-# How to: <% tp.file.title %>
+# How to: title
 
 ## Goal
 - 
