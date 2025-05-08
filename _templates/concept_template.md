@@ -1,11 +1,4 @@
----
-
-tags: [concept, tech, <% tp.file.title %>]
-
-created: <% tp.date.now("YYYY-MM-DD") %>
-
----
-# <% tp.file.title %>
+# title
 
 ## 개요
 
