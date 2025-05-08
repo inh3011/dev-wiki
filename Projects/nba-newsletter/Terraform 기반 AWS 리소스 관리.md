@@ -1,10 +1,3 @@
----
-tags:
-  - project
-  - documentation
-  - Terraform
-created: 2025-05-02
----
 # 기술 도입 배경 및 적용 사례: Terraform 기반 AWS 리소스 관리
 
 ## 0. 개요
