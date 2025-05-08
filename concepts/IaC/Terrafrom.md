@@ -1,10 +1,3 @@
----
-tags:
-  - concept
-  - tech
-  - Terraform
-created: 2025-05-02
----
 # Terraform
 
 ## 개요
