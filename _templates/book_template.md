@@ -1,13 +1,4 @@
----
-tags:
-  - book
-  - summary
-  - <%
-  - tp.file.title
-  - "%>"
-created: <% tp.date.now("YYYY-MM-DD") %>
----
-# <% tp.file.title %>
+# title
 
 ## 1. 읽은 챕터 / 주제 (Chapter / Topic)
 
