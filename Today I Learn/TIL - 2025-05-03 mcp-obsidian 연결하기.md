@@ -1,11 +1,3 @@
----
-tags:
-  - TIL
-  - learning
-  - model-context-protocol
-  - mcp-obsidian
-created: 2025-05-03
----
 # TIL - 2025-05-03 mcp-obsidian 연결하기
 
 ## 오늘 배우는 개념 (What I Learned)
